@@ -12,6 +12,6 @@ def main():
         screen.fill((0, 0, 0))
         pygame.display.flip()
 
-
+        test_var = 1
 if __name__ == "__main__":
     main()
